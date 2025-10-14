@@ -6,3 +6,4 @@ books_with_emotions.csv
 tagged_description.txt
 *.csv
 .ipynb_checkpoints/
+.DS_Store
