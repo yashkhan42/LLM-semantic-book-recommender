@@ -7,3 +7,5 @@ tagged_description.txt
 *.csv
 .ipynb_checkpoints/
 .DS_Store
+.venv
+.vscode
