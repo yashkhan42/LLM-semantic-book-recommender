@@ -2,8 +2,8 @@
 # Semantic Book Recommender  
 **Natural-Language Book Discovery Powered by Embeddings & Large Language Models**
 
-![Semantic Book Recommender Dashboard](https://github.com/yashkhan42/LLM-semantic-book-recommender/blob/main/dashboard-galaxies-query.png)  
-*Live dashboard in action: Query "a story about galaxies" → fiction category → semantic matches with visual book covers*
+![Semantic Book Recommender Dashboard](https://github.com/yashkhan42/LLM-semantic-book-recommender/blob/main/dashboard-selfhelp-query.png)  
+*Live dashboard in action: Query "a self help book" → nonfiction category → surprising emotional tone → semantic matches with visual book covers*
 
 ## Project Overview
 
